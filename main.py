@@ -1,6 +1,8 @@
+#Summa
 def suma(num_1: int, num_2: int) -> int:
     return num_1 + num_2
 
+#Resta
 def resta(num_1: int, num_2: int) -> int:
     return num_1 - num_2
 
