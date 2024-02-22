@@ -13,6 +13,16 @@ Crear archivo txt llamado requirements para instalar los paquetes anteriores con
 
 pip install -r requirements.txt para instalar todo
 
+# Excluir archivos de ser subidos a GitHub
+
+En el archivo .gitignore se puede especificar los archivos que no se desean subir.
+Por ejemplo en este proyecto podras encontrar al inicio de ese archivo este codigo:
+
+My selected files
+Proyecto_1/
+
+Con esto se excluyen todos los archivos de la carpeta Proyecto_1
+
 # Comandos para hacer commits
 
 `git add .` = para agregar todos los archivo
