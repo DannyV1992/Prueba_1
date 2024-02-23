@@ -28,3 +28,8 @@ Con esto se excluyen todos los archivos de la carpeta Proyecto_1
 `git add .` = para agregar todos los archivo
 `git commit -m "Cambios"` = agregar un titulo a los cambios
 `git push origin main` = subir cambios a GitHub
+
+# Para crear branches
+`git branch staging main` = para crear una rama apartir de main
+`git branch -v` = para ver branches
+`git checkout staging` = para cambiar de branch
