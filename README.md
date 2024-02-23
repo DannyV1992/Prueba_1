@@ -42,7 +42,7 @@ Con esto se excluyen todos los archivos de la carpeta Proyecto_1
 `git push origin\main` = subir cambios a GitHub
 
 # Para crear branches
-`git branch staging main` = para crear una rama apartir de main
+`git branch staging main` = para crear una rama a partir de main
 
 `git branch -v` = para ver branches
 
